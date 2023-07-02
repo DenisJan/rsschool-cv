@@ -12,6 +12,7 @@ I have a degree in economics. Now I want to learn JavaScript and I will do my be
 * HTML
 * CSS
 * GitHub
+* Figma
 
 ### Code Example
 `function multiply(a, b){
